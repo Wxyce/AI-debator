@@ -2,7 +2,7 @@
 
 ## A functional AI debator where you can set personalities to fight it out against a debate topic?
 Have you ever felt so lost in ChatGPT's reponses? Need a second opinion. Well heres my semi-useful, super useless product that does nothing other than give you suggestions that probably suck. You can now ask anyone, yes anyone, even that rural country farmer down in southern USA to debate about anything - literally anything from "Is the moon fake?" to "Where should I go this week end in New York?" the choice is really yours.
-** Please note that the choice's the AI makes is not what I condone, take action with the idea that its the AI choice and you should be weary.**
+**Please note that the choice's the AI makes is not what I condone, take action with the idea that its the AI choice and you should be weary.**
 * Allows user's to set two AI personalities to debate
 * Uses AI to check who won the debate
 * Pretty useless 🤡
@@ -12,7 +12,7 @@ When running this program it will use OLLAMA to generate text which will then be
 
 ## Project is made with love using [COQUI TTS 🐸](https://github.com/coqui-ai/TTS) and [OLLAMA 🦙](https://ollama.com)
 To use this project pick an IDE and make sure you have the following libraries on your python virutal enviroment, COQUI TTS, OLLAMA, SOUNDDEVICE.
-** Note you should do this in a seperate folder **
+**Note you should do this in a seperate folder**
 1. Use an IDE, perferrably VS-CODE since thats what I used to code this.
 2. Download the python file from this project.
 3. Set up your python virutal enviroment (refer to google if you don't know), use **python 3.11.0** .
